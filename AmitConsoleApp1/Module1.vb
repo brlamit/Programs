@@ -2,6 +2,10 @@
 
     Sub Main()
         Console.WriteLine("Hello ")
+        Console.WriteLine("Hello ")
+        Console.WriteLine("Hello ")
+        Console.WriteLine("Hello ")
+        Console.WriteLine("Hello ")
         Console.ReadKey()
     End Sub
 
